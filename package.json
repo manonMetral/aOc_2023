@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest",
+    "test:ci": "vitest run --coverage",
     "test:coverage": "vitest --coverage",
     "eslint:ci": "eslint './**/*.{ts,js}'",
     "eslint": "eslint './**/*.{ts,js}' --fix"
