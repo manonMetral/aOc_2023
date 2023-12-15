@@ -25,6 +25,8 @@
     "vitest": "^1.0.4"
   },
   "dependencies": {
+    "@types/node": "^20.10.4",
+    "fs": "^0.0.1-security",
     "typescript": "^5.0.4"
   }
 }
