@@ -22,7 +22,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^5.0.0",
     "prettier": "^3.0.3",
-    "vitest": "^1.0.4"
+    "vitest": "^1.2.2"
   },
   "dependencies": {
     "@types/node": "^20.10.4",
